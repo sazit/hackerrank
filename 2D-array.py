@@ -28,8 +28,6 @@ def find_hourglass_sum (arr, x, y): # 0, 0
     
 
 def hourglassSum(arr):
-    # Write your code here
-    
     max_sum = 7 * -9 # incase highest sum is infact negative
     loop_max_sum = 0
     
