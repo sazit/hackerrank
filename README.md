@@ -8,7 +8,4 @@ Main language will be Python 3 as it is relevant to my current work an consists 
 
 Good luck to me.
 
-22/04/2023
-Warmups - 4
-Arrays - 3
-Total - 7/100
+22/04/2023: Warmups - 4 | Arrays - 3 | Total - 7/100
